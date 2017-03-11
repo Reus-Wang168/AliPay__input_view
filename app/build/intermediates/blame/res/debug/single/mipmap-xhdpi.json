@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi/pl_red.png",
+        "source": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/src/main/res/mipmap-xhdpi/pl_red.png"
+    },
+    {
+        "merged": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi/pl_yellow.png",
+        "source": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/src/main/res/mipmap-xhdpi/pl_yellow.png"
+    },
+    {
+        "merged": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi/pl_blue.png",
+        "source": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/src/main/res/mipmap-xhdpi/pl_blue.png"
+    }
+]

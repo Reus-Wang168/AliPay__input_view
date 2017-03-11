@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "/Users/Tenney/.android/build-cache/43e4cc9933f88a17c9f8df9067093239142870b2/output/res/values-v19/values-v19.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 379
+                    }
+                }
+            }
+        ]
+    }
+]

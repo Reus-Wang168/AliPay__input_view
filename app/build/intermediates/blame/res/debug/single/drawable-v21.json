@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/Tenney/.android/build-cache/418894a98f345ca70f68b7cf197f34078b988584/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/Tenney/.android/build-cache/49f43bec6080d09405b9f014ce449b57fb4ca961/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/Tenney/.android/build-cache/49f43bec6080d09405b9f014ce449b57fb4ca961/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/Tenney/.android/build-cache/418894a98f345ca70f68b7cf197f34078b988584/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/Tenney/.android/build-cache/49f43bec6080d09405b9f014ce449b57fb4ca961/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/build/intermediates/res/merged/debug/drawable-v21/icon_vector_anim.xml",
+        "source": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/src/main/res/drawable-v21/icon_vector_anim.xml"
+    },
+    {
+        "merged": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/Tenney/.android/build-cache/418894a98f345ca70f68b7cf197f34078b988584/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/Tenney/.android/build-cache/418894a98f345ca70f68b7cf197f34078b988584/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Tenney/Downloads/and_pro/chuanyun-master/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/Tenney/.android/build-cache/49f43bec6080d09405b9f014ce449b57fb4ca961/output/res/drawable-v21/design_password_eye.xml"
+    }
+]
